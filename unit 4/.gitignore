@@ -1,0 +1,11 @@
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# C++ build/debug files
+*.dSYM/
+
+# Compiled output
+*.out
